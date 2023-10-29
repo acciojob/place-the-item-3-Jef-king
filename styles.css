@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-:root{
+.holder{
 	display:flex;
 	flex-align:row;
 	justify-content:space-evenly;
