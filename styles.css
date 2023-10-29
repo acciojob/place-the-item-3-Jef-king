@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+:root{
+	display:flex;
+	flex-align:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
